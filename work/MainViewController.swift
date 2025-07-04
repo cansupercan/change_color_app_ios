@@ -31,7 +31,7 @@ class MainViewController: UIViewController {
         txfRed.text="0"
         txfBlue.text="0"
         txfGreen.text="0"
-        // Do any additional setup after loading the view.
+       
     }
     
     // MARK: - IBAction
